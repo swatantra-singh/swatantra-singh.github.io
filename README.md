@@ -8,8 +8,9 @@ SAP ABAP, CDS View, AMDP, ABAP on HANA, Object Oriented Programming(ABAP OO)
 , SAP Workflow, OData, RESTful Application Programming Model, SAP BTP.
 ## Education
   <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="html" width="50" height="50">
-  <B>Rajiv Gandhi Proudyogiki Vishwavidyalaya</B></BR>
-   BE in Computer Science & Engineering (2012-2016)
+  <b>Rajiv Gandhi Proudyogiki Vishwavidyalaya</b>
+  <br>
+   B.E. in Computer Science & Engineering (2012-2016)
    
  ## Certifications
  <p align='left'>
