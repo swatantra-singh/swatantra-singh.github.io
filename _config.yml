@@ -1,6 +1,6 @@
 title: Swatantra Singh
-logo: 
-description: > # your text below (remove <br> elements if you don't need line breaks)
-Senior SAP Technical Consultant
-<a href="https://www.linkedin.com/in/swa10tra/">LinkedIn Profile</a>
+logo: "/profile.png?raw=true"
+description: > 
+  Senior SAP Technical Consultant
+    <a href="https://www.linkedin.com/in/swa10tra/">LinkedIn Profile</a>
 theme: jekyll-theme-minimal
