@@ -3,15 +3,25 @@
 
 ## Professional Experience
 
+* #### Bosch
+
+* #### EY Global Delivery Services India LLP, Bangalore, India
+
+* #### Accenture, Bangalore, India
+
+* #### IBM India Pvt. Ltd., Kolkata, India
+
+
+
 ## Skills
-SAP ABAP, CDS View, AMDP, ABAP on HANA, Object Oriented Programming(ABAP OO)
-, SAP Workflow, OData, RESTful Application Programming Model, SAP BTP.
+SAP ABAP, CDS View, AMDP, ABAP on HANA, Object Oriented Programming(ABAP OO), SAP Workflow, OData, RESTful Application Programming Model, SAP BTP.
 
 
 ## Education
-<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="html" width="50" height="50"/>
-Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh</br>
-B.E. in Computer Science & Engineering (2012-2016)
+
+* #### Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh
+
+   *B.E. in Computer Science & Engineering (2012-2016)* 
 
 
 ## Certifications
