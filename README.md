@@ -9,9 +9,7 @@ SAP ABAP, CDS View, AMDP, ABAP on HANA, Object Oriented Programming(ABAP OO)
 
 
 ## Education
-<p align = 'left'>
-  <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="html" width="50" height="50">
-</p> 
+<img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="html" width="50" height="50"/>
 Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh</br>
 B.E. in Computer Science & Engineering (2012-2016)
 
