@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Portfolio
 
-You can use the [editor on GitHub](https://github.com/swatantra-singh/swatantra.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I am an SAP Technical Consultant based in Bangalore, India.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Professional Experience
+<img src="https://upload.wikimedia.org/wikipedia/en/b/bf/Bosch-brand.svg" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/34/EY_logo_2019.svg" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/cd/Accenture.svg" width="100" height="100">
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/51/IBM_logo.svg" width="100" height="100">
 
-### Markdown
+## Skills
+SAP ABAP, CDS View, AMDP, ABAP on HANA, Object Oriented Programming(ABAP OO)
+, SAP Workflow, OData, RESTful Application Programming Model, SAP BTP.
+## Education
+  <img src="https://upload.wikimedia.org/wikipedia/en/c/c4/Rajiv_Gandhi_Proudyogiki_Vishwavidyalaya_logo.png" alt="html" width="50" height="50">
+  <B>Rajiv Gandhi Proudyogiki Vishwavidyalaya</B></BR>
+   BE in Computer Science & Engineering (2012-2016)
+   
+ ## Certifications
+ <p align='left'>
+    <a href="https://www.credly.com/badges/f59e36c4-9f15-4fe9-b63d-f374e613c1b3">
+      <img src="https://images.credly.com/size/680x680/images/60e6a251-6597-49c9-a349-6b24c981e1b9/E_HANAAW_16.png" alt="SAP Certified Development Specialist-ABAP for SAP HANA            2.0" width="100" height="100">
+    </a>
+ </p>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/swatantra-singh/swatantra.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
