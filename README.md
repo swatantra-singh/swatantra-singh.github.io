@@ -58,10 +58,10 @@ SAP ABAP, CDS View, AMDP, ABAP on HANA, Object Oriented Programming(ABAP OO), SA
 ## Certifications
  <p align='left'>
     <a href="https://www.credly.com/badges/f59e36c4-9f15-4fe9-b63d-f374e613c1b3">
-      <img src="https://images.credly.com/size/680x680/images/60e6a251-6597-49c9-a349-6b24c981e1b9/E_HANAAW_16.png" alt="SAP Certified Development Specialist-ABAP for SAP HANA            2.0" width="100" height="100">
+      <img src="https://images.credly.com/size/680x680/images/60e6a251-6597-49c9-a349-6b24c981e1b9/E_HANAAW_16.png" alt="SAP Certified Development Specialist-ABAP for SAP HANA            2.0" target="_blank" width="100" height="100">
     </a>
     <a href="https://open.sap.com/verify/xusek-bokef-mecyd-gacof-dugot">
-      <img src="img/btp1_open_badge.png" alt=" SAP Business Technology Platform in a Nutshell" width="100" height="100">
+      <img src="img/btp1_open_badge.png" alt=" SAP Business Technology Platform in a Nutshell" target="_blank" width="100" height="100">
     </a>
  </p>
 
