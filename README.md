@@ -10,7 +10,6 @@
 * Well versed in the OOPs concepts and DDIC objects.
 
 ## Professional Experience
-
 * #### Bosch
   - Working as a Senior SAP Technical Consultant
 
@@ -49,7 +48,6 @@ SAP ABAP, CDS View, AMDP, ABAP on HANA, Object Oriented Programming(ABAP OO), SA
 
 
 ## Education
-
 * #### Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal, Madhya Pradesh
 
    *B.E. in Computer Science & Engineering (2012-2016)* 
