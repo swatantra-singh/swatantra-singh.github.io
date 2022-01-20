@@ -1,5 +1,8 @@
-logo: "img/pic.png?raw=true"
 title: Swatantra Singh
+logo: >
+<p align='middle'>
+<img src="img/pic.png" width="100" height="100">
+</p>
 description: > 
   Senior SAP Technical Consultant
   <br>
